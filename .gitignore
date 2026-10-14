@@ -1,0 +1,18 @@
+# Fichier connexion sensible
+connexion.php
+
+# Uploads (images produits)
+uploads/
+
+# Logs
+*.log
+error_log
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
